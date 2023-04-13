@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskVMedia", "TestTaskVMedia\TestTaskVMedia.csproj", "{0AE1398A-BD35-4A33-8BFF-ED987B05401A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment_2", "Assignment_2", "{F1D11D76-270C-4004-83A6-3E9D808FF08B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment_1", "Assignment_1", "{D0F90380-BB8A-4DDC-ABDA-9EA374C992E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskVMedia.DataStructures", "TestTaskVMedia.DataStructures\TestTaskVMedia.DataStructures.csproj", "{FED62B52-0691-4FB4-8738-203A54ED51D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE1398A-BD35-4A33-8BFF-ED987B05401A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE1398A-BD35-4A33-8BFF-ED987B05401A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE1398A-BD35-4A33-8BFF-ED987B05401A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE1398A-BD35-4A33-8BFF-ED987B05401A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED62B52-0691-4FB4-8738-203A54ED51D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED62B52-0691-4FB4-8738-203A54ED51D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED62B52-0691-4FB4-8738-203A54ED51D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED62B52-0691-4FB4-8738-203A54ED51D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0AE1398A-BD35-4A33-8BFF-ED987B05401A} = {F1D11D76-270C-4004-83A6-3E9D808FF08B}
+		{FED62B52-0691-4FB4-8738-203A54ED51D8} = {D0F90380-BB8A-4DDC-ABDA-9EA374C992E4}
+	EndGlobalSection
+EndGlobal
